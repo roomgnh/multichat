@@ -49,3 +49,7 @@ You can customize the server port by modifying the port number in the ChatServer
 
 ## Acknowledgements
 This project is a simple demonstration of socket programming in Java.
+
+![image](https://github.com/roomgnh/multichat/assets/149757857/4fa2dfb2-1632-4d43-8256-56a514ea6c9a)
+
+
