@@ -6,6 +6,7 @@ A simple multi-chat application implemented in Java using sockets.
 
 - Allows multiple clients to connect to a server.
 - Clients can send messages to the server, and the server will broadcast the messages to all connected clients.
+- Clients name uses the local IP Address used by the client.
 - Clients can running in GUI for suppported OS and for CLI you can use in folder Client_CLI.
 
 ## How to Use
