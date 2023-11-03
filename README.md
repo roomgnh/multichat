@@ -14,7 +14,6 @@ A simple multi-chat application implemented in Java using sockets.
   
      ```bash
      git clone https://github.com/roomgnh/multichat.git
-     
   
   2. Compile the server and client code.
      
@@ -22,26 +21,22 @@ A simple multi-chat application implemented in Java using sockets.
     
       ```bash
       javac ChatServer.java
-      
   
   - Code for compile client you can use:
     
       ```bash
       javac ChatClient.java
-      
   
   3. Run the server and client code. 
   - Run the server:
     
       ```bash
       java ChatServer
-      
   
   - Run the client(s) on separate terminals or machines:
     
       ```bash
       java ChatClient
-      
   
   4. Connect to the server and start chatting!
 
